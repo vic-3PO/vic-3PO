@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou o Victor</h1>
 <h3 align="center">Sou desenvolvedor web - fullstack</h3>
-<img align="right" alt="Coding" width="400" src="https://victorlopesm.vercel.app/images/user.png">
+<img align="right" alt="Coding" width="300" src="https://victorlopesm.vercel.app/images/user.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vic-3po&label=Profile%20views&color=0e75b6&style=flat" alt="vic-3po" /> </p>
 
