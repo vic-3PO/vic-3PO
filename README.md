@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente estou trabalhando em [FangTalk](https://github.com/vic-3PO/Fang-Talk)
 
-- 🌱 Atualmente estou aprendendo **AWS**
+- 🌱 Atualmente estou aprendendo **Data Science**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://victorlopesm.vercel.app](https://victorlopesm.vercel.app)
 
